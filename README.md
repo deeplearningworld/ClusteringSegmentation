@@ -1,13 +1,13 @@
 # ClusteringSegmentation
 
 
-###Customer Segmentation with Clustering###
+# Customer Segmentation with Clustering
 This project demonstrates customer segmentation using unsupervised machine learning techniques. It applies K-Means clustering and Principal Component Analysis (PCA) to a sample customer dataset to identify distinct customer groups. The results are presented in an interactive web dashboard built with Streamlit.
 
-##Project Overview##
+# Project Overview
 The main goal of this project is to group customers based on their annual income and spending score. This can help businesses tailor marketing strategies and product offerings to different customer segments.
 
-Tech Stack:
+# Tech Stack:
 
 Python: The core programming language.
 
@@ -19,7 +19,7 @@ Seaborn & Matplotlib: For data visualization.
 
 Streamlit: To create and run the interactive web dashboard.
 
-File Structure
+# File Structure
 
 clusteringegmentation/
 ├── app.py
